@@ -1,1 +1,1 @@
-### computers were a mistake
+### a computer is a device for turning time into problems
