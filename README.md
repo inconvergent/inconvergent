@@ -1,1 +1,1 @@
-### a computer is a device for turning time into problems
+### a computer is a device for making mistakes really fast
