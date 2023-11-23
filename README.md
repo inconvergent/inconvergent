@@ -2,6 +2,8 @@
 
 ### recent writing about programming
 
+[Vectors and Symbols](https://inconvergent.net/2023/vectors-and-symbols/)
+
 [Lets Write a DSL (in Common Lisp)](https://inconvergent.net/2023/lets-write-a-dsl/)
 
 [From Datalog to SVG](https://inconvergent.net/2023/datalog-to-svg/)
