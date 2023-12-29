@@ -2,7 +2,7 @@
 
 ### recent work
 
-terminal utility for transforming and querying JSON and TXT files
+terminal utility for transforming and querying JSON and TXT files:
 
 [JQN - JSON Query Notation](https://github.com/inconvergent/jqn)
 
