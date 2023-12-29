@@ -1,5 +1,9 @@
 ## a computer is a device for making mistakes really fast
 
+### recent work
+[JQN - JSON Query Notation](https://github.com/inconvergent/jqn)
+terminal utility for transforming and querying JSON and TXT files
+
 ### recent writing about programming
 
 [Vectors and Symbols](https://inconvergent.net/2023/vectors-and-symbols/)
