@@ -2,7 +2,7 @@
 
 ### recent work and writing
 
- - [LQN - Lisp Query Notation](https://github.com/inconvergent/lqn): terminal utility for transforming and querying Lisp, JSON and TXT files
+ - [LQN - Lisp Query Notation]([https://github.com/inconvergent/lqn](https://inconvergent.net/2024/lisp-query-notation/): terminal utility for transforming and querying Lisp, JSON and TXT files
 
  - [Vectors and Symbols](https://inconvergent.net/2023/vectors-and-symbols/)
 
