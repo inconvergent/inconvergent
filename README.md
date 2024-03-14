@@ -5,12 +5,17 @@
  - [LQN - Lisp Query Notation](https://inconvergent.net/2024/lisp-query-notation/):
    terminal utility for transforming and querying Lisp, JSON and TXT files
 
- - [Vectors and Symbols](https://inconvergent.net/2023/vectors-and-symbols/)
+ - [Vectors and Symbols](https://inconvergent.net/2023/vectors-and-symbols/):
+   how to implement a simple DSL for vector mathematics in Common Lisp
 
- - [Lets Write a DSL (in Common Lisp)](https://inconvergent.net/2023/lets-write-a-dsl/)
+ - [Lets Write a DSL (in Common Lisp)](https://inconvergent.net/2023/lets-write-a-dsl/):
+   example of a simple Common Lisp DSL compiler
 
- - [From Datalog to SVG](https://inconvergent.net/2023/datalog-to-svg/)
+ - [From Datalog to SVG](https://inconvergent.net/2023/datalog-to-svg/):
+   generating SVG from a graph using Datalog
 
- - [A Vector DSL](https://inconvergent.net/2023/a-vector-dsl/)
+ - [A Vector DSL](https://inconvergent.net/2023/a-vector-dsl/):
+   introduction to some features in [cl-veq](https://github.com/inconvergent/cl-grph)
 
- - [Graph Data Structure with Datalog QL](https://inconvergent.net/2022/graph-data-structure-with-datalog-ql/)
+ - [Graph Data Structure with Datalog QL](https://inconvergent.net/2022/graph-data-structure-with-datalog-ql/):
+   introduction to [cl-grph](https://github.com/inconvergent/cl-veq)
