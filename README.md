@@ -3,7 +3,7 @@
 ### recent work and writing
 
  - [LQN - Lisp Query Notation](https://inconvergent.net/2024/lisp-query-notation/):
-   terminal utility for transforming and querying Lisp, JSON and TXT files
+   terminal utility and CL library ([lqn](https://github.com/inconvergent/lqn)) for transforming and querying Lisp, json and text files
 
  - [Vectors and Symbols](https://inconvergent.net/2023/vectors-and-symbols/):
    how to implement a simple DSL for vector mathematics in Common Lisp
