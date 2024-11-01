@@ -1,5 +1,12 @@
 ## a computer is a device for making mistakes really fast
 
+### currently working on / experimenting with
+
+ - [cl-stm](https://github.com/inconvergent/cl-stm): lazy state machine for common lisp
+
+ - [cl-evl](https://github.com/inconvergent/cl-evl): meta-circular evaluator for a small scheme-like lisp
+ 
+
 ### recent work and writing
 
  - [LQN - Lisp Query Notation](https://inconvergent.net/2024/lisp-query-notation/):
