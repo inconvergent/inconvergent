@@ -5,7 +5,10 @@
  - [cl-stm](https://github.com/inconvergent/cl-stm): lazy state machine for common lisp
 
  - [cl-evl](https://github.com/inconvergent/cl-evl): meta-circular evaluator for a small scheme-like lisp
- 
+
+
+![head](head.jpg)
+
 
 ### recent work and writing
 
