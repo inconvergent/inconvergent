@@ -29,3 +29,11 @@
 
  - [Graph Data Structure with Datalog QL](https://inconvergent.net/2022/graph-data-structure-with-datalog-ql/):
    introduction to [cl-grph](https://github.com/inconvergent/cl-veq)
+
+
+### plotter drawings
+
+i sell plotter drawings at https://buy.inconvergent.net/
+
+![plotter drawing](24-256263e1.jpg)
+
