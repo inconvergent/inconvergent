@@ -1,8 +1,6 @@
 ## currently working on / experimenting with
 
- - [cl-stm](https://github.com/inconvergent/cl-stm): lazy state machine for common lisp
-
- - [cl-evl](https://github.com/inconvergent/cl-evl): meta-circular evaluator for a small scheme-like lisp
+ - [boxtype][http://bsky.app/profile/boxtype.app/]: A 2d platform puzzle game for the browser
 
 ![head](head.jpg)
 
