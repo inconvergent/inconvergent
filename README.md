@@ -1,6 +1,6 @@
 ## currently working on / experimenting with
 
- - [boxtype][http://bsky.app/profile/boxtype.app/]: A 2d platform puzzle game for the browser
+ - [boxtype](http://bsky.app/profile/boxtype.app/): A 2d platform puzzle game for the browser
 
 ![head](head.jpg)
 
