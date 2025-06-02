@@ -1,8 +1,10 @@
-## currently working on / experimenting with
+## now
 
- - [boxtype](http://bsky.app/profile/boxtype.app/): A 2d platform puzzle game for the browser
 
-![head](head.jpg)
+ [Boxtype - A Puzzle Game](https://boxtype.app)
+
+
+![head](bt.png)
 
 ## recent work and writing
 
