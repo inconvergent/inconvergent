@@ -2,6 +2,7 @@
 
 
 play my new browser game for free at: [Boxtype - A Puzzle Game](https://boxtype.app)
+see [release notes](https://inconvergent.net/2025/boxtype)
 
 
 ![head](bt.png)
