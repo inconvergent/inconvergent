@@ -1,7 +1,7 @@
 ## now
 
 
- [Boxtype - A Puzzle Game](https://boxtype.app)
+play my new browser game for free at: [Boxtype - A Puzzle Game](https://boxtype.app)
 
 
 ![head](bt.png)
