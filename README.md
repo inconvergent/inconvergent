@@ -3,12 +3,17 @@
 
 play my new browser game for free at: [Boxtype - A Puzzle Game](https://boxtype.app)
 
-see [release notes](https://inconvergent.net/2025/boxtype)
+see [release notes](https://boxtype.app/about/)
 
 
 ![head](bt.png)
 
 ## recent work and writing
+ - [Boxtype - Level Encoding](https://inconvergent.net/2025/boxtype-devlog-level-encoding/):
+   How levels in Boxtype are encoded in the URL
+
+ - [Boxtype - Devlog](https://inconvergent.net/2025/boxtype-devlog/):
+   Notes and screenshots from making the game
 
  - [LQN - Lisp Query Notation](https://inconvergent.net/2024/lisp-query-notation/):
    terminal utility and CL library ([lqn](https://github.com/inconvergent/lqn)) for transforming and querying Lisp, json and text files
