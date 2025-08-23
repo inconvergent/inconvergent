@@ -1,12 +1,17 @@
 ## now
 
+![Raytracing](teapot-brdf-small.png)
+
+Volumetric raytracer in CL
+
+## boxtype game
 
 play my new browser game for free at: [Boxtype - A Puzzle Game](https://boxtype.app)
 
 see [release notes](https://boxtype.app/about/)
 
 
-![head](bt.png)
+![Boxtype Game](bt.png)
 
 ## recent work and writing
  - [Boxtype - Level Encoding](https://inconvergent.net/2025/boxtype-devlog-level-encoding/):
