@@ -1,6 +1,7 @@
 ## now
 
-Volumetric raytracer in CL.
+Volumetric raytracer in CL. Here are two reference scenes I've made for testing
+materials and interactions.
 
 ![Raytracing 1](teapot-brdf-small.png)
 ![Raytracing 2](pillars.png)
