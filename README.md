@@ -1,8 +1,9 @@
 ## now
 
-![Raytracing](teapot-brdf-small.png)
+Volumetric raytracer in CL.
 
-Volumetric raytracer in CL
+![Raytracing 1](teapot-brdf-small.png)
+![Raytracing 2](pillars.png)
 
 ## boxtype game
 
